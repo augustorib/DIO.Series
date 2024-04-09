@@ -14,13 +14,13 @@
                 programOperations.InserirSerie();
                 break;
             case "3":
-                //AtualizarSerie();
+                programOperations.AtualizarSerie();
                 break;
             case "4":
-                //ExcluirSerie();
+                programOperations.ExcluirSerie();
                 break;
             case "5":
-                //VisualizarSerie();
+                programOperations.VisualizarSerie();
                 break;
             case "C":
                 Console.Clear();
